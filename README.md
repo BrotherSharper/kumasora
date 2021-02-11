@@ -2,8 +2,8 @@
 FoundryVTT用のワールド
 
 * **シナリオ作者**:アルバガルド（池梟リョーマ）
-* **対応Foundry Virtual Tabletopバージョン**: 0.7.8
-* **対応dnd5eバージョン**: 1.2.0
+* **対応Foundry Virtual Tabletopバージョン**: 0.7.9
+* **対応dnd5eバージョン**: 1.2.4
 
 ### インストール方法
 
